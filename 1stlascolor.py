@@ -1,0 +1,6 @@
+print("enter the colours")
+s=input()
+l=s.split(",")
+print("the first and last colour are:")
+print(l[0])
+print(l[-1])
