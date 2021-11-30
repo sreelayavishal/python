@@ -1,0 +1,5 @@
+print("enter a string")
+s=input()
+l=s.split(",")
+print(l[0])
+print(l[-1])
